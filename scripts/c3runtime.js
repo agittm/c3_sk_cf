@@ -3084,7 +3084,7 @@ case AUTO_FONT_SIZE:return this._autoFontSize;case CHECKED:return this._isChecke
 			const n0 = p._GetNode(0);
 			return () => and(n0.ExpObject(), "");
 		},
-		() => 15,
+		() => 60,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const n1 = p._GetNode(1);
