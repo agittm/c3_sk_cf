@@ -1,11 +1,42 @@
-[
-  "Sayang mama papa",
-  "Gasuka neko neko",
-  "Pergi pagi pulang pagi",
-  "Suka makan duren",
-  "Makanan favorit : panadol",
-  "Ngoding terosss",
-  "Gabisa gambar, bisanya gambling",
-  "Suka cari kesempitan",
-  "Hobinya godain satan"
-]
+{
+  "good": [
+    "hobi baca buku, suka kucing",
+    "Traveling around the world",
+    "Teman baru = cerita baru",
+    "Positive friendship only",
+    "Berbagi dan menginspirasi",
+    "Wirausaha baru belajar",
+    "Mahasiswa desain grafis",
+    "Healthy relationship only!",
+    "Mental health matter",
+    "Anak muda yang suka berteman",
+    "Tertarik membahas politik dan hukum",
+    "Late respons, lagi kerja",
+    "Suka bikin komik",
+    "Be kind",
+    "Jaga alam, jaga kehidupan",
+    "Chat kasar, rasis, atau pornografi tidak akan dibalas",
+    "Suka olahraga dan makanan sehat",
+    "Lindungi satwa langka Indonesia"
+  ],
+  "bad": [
+    "Cari masalah = minta dihajar",
+    "Hanya untuk yang good looking",
+    "Anj***",
+    "Lagi cari pelampiasan",
+    "Banting HP kalau marah",
+    "Lo nggak bakal tahu gue siapa",
+    "Akun iseng",
+    "Gue benar, lo semua salah",
+    "Perang adalah kesukaanku",
+    "Bangun - minum - rokok - repeat",
+    "Ga usah sotoy",
+    "Suka suka gue lah",
+    "Lagi cari pacar cadangan",
+    "Apasih ngatur-ngatur",
+    "Gunjing tiap hari",
+    "Kesal sama semuanya",
+    "Tolak = block",
+    "Mati aja kau"
+  ]
+}
