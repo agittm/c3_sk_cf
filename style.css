@@ -37,3 +37,23 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'raleway-extrabold';
+	src: url('fonts/raleway-extrabold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'raleway-medium';
+	src: url('fonts/raleway-medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'staatliches-regular';
+	src: url('fonts/staatliches-regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'rubik-variablefont_wght';
+	src: url('fonts/rubik-variablefont_wght.ttf') format('truetype');
+}
+
